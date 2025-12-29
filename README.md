@@ -40,8 +40,8 @@ Git · GitHub · VS Code · Linux (basics)
 🌐 Small frontend pages using HTML & CSS  
 
 📫 Connect With Me  
-GitHub: https://github.com/<your-username>  
-LinkedIn: <your-link>
+GitHub: https://github.com/jahnavigajjala-3
+LinkedIn: https://www.linkedin.com/in/jahnavi-gajjala-14250b369/
 
 ⭐ Always learning. Always building.
 
