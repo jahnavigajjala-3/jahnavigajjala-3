@@ -18,24 +18,23 @@ Open-Source Enthusiast · Computer Science Student · Python Learner
 🧰 My Tech Toolbox  
 
 Languages:  
-Python · JavaScript · C (basics)
+Python · JavaScript 
 
 Libraries & Frameworks:  
-NumPy · Pandas · Django (beginner)  
+NumPy · Pandas · 
 
 Web Technologies:  
 HTML · CSS · JavaScript  
 
 Tools & Platforms:  
-Git · GitHub · VS Code · Linux (basics)
+Git · GitHub · VS Code 
 
 🌍 Open Source  
 🧪 DeepChem – Documentation & Python code exploration  
-👁️ OpenCV – Learning computer vision fundamentals  
 ⚡ CircuitVerse – Digital logic & simulator contributions  
 
 📌 Projects & Practice  
-📊 Data Analysis mini-projects using NumPy & Pandas  
+
 🔎 DSA practice problems (arrays, searching, sorting, linked lists)  
 🌐 Small frontend pages using HTML & CSS  
 
